@@ -16,4 +16,4 @@ I'm currently studying Computer Science and exploring different fields within te
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![Image of my-profile-view-counter](https://raw.githubusercontent.com/boodetolah-design/my-profile-views-counter/master/svg/profile/badge.svg)](https://github.com/boodetolah-design/my-profile-views-counter/blob/master/readme/profile/index.md)
+![Views](https://komarev.com/ghpvc?username=boodetolah-design&color=blue&style=flat-square)

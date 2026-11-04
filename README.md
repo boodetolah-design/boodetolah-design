@@ -17,7 +17,5 @@ I'm currently studying Computer Science and exploring different fields within te
 
 ---
 <img src="https://t.bkit.co/w_6aeac21d6b81e.gif" />
-https://t.bkit.co/w_6aeac21d6b81e.gif
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

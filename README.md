@@ -16,6 +16,7 @@ I'm currently studying Computer Science and exploring different fields within te
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-![Views](https://komarev.com/ghpvc?username=boodetolah-design&color=blue&style=flat-square)
+![](https://komarev.com/ghpvc/?username=your-github-username)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

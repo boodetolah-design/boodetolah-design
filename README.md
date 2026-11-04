@@ -16,7 +16,7 @@ I'm currently studying Computer Science and exploring different fields within te
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-![](https://komarev.com/ghpvc/?username=your-github-username)
+<img src="https://t.bkit.co/w_6aeac21d6b81e.gif" />
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
